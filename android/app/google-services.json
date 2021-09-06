@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "726148780615",
+    "project_id": "chattest-d0183",
+    "storage_bucket": "chattest-d0183.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726148780615:android:a9615227283f7fe7429762",
+        "android_client_info": {
+          "package_name": "com.dit.pendar.my_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726148780615-kp4i04srcai209v05p08phv8ul5u1nh0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dit.pendar.my_chat",
+            "certificate_hash": "3a6e1b1514ac2e56a707a2bf2286c7b9b67056fb"
+          }
+        },
+        {
+          "client_id": "726148780615-ulsdl5v8997vch3d2ig3sfbrknk5bnp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Sk2h4IObyAm1edMz0s5I87gBXd4ZiAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726148780615-ulsdl5v8997vch3d2ig3sfbrknk5bnp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726148780615:android:7b8a1a53f9195875429762",
+        "android_client_info": {
+          "package_name": "com.mobidonia.foodtiger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726148780615-ulsdl5v8997vch3d2ig3sfbrknk5bnp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Sk2h4IObyAm1edMz0s5I87gBXd4ZiAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726148780615-ulsdl5v8997vch3d2ig3sfbrknk5bnp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726148780615:android:43d7a50e95dc0e42429762",
+        "android_client_info": {
+          "package_name": "com.mobidonia.foodtigerdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726148780615-ulsdl5v8997vch3d2ig3sfbrknk5bnp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Sk2h4IObyAm1edMz0s5I87gBXd4ZiAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726148780615-ulsdl5v8997vch3d2ig3sfbrknk5bnp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
